@@ -1,0 +1,30 @@
+# Node modules
+/node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large media files
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.wmv
+*.flv
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+
+# Temporary files
+*.tmp
+*.temp
